@@ -21,6 +21,7 @@ const student = { id: 45, class: 3 };
 console.log(typeof a, typeof b, typeof c, Array.isArray(ages), typeof student);
 */
 
+/*
 let x = 5;
 let y = x;
 console.log(x, y);
@@ -34,3 +35,36 @@ q.job = 'Front End Developer';
 console.log(p, q);                  //{ job: 'Front End Developer' } { job: 'Front End Developer' }
 q = { job: 'Back end developer' };
 console.log(p, q);                  //{ job: 'Front End Developer' } { job: 'Back end developer' }
+*/
+
+
+//.........Quiz...........
+
+// let p = 'Javascript';
+// let q = p;
+// p = 'React';
+// console.log(q);
+
+// const isTrue = 'false';
+// if (!isTrue) {
+//     console.log('hello');
+// } else {
+//     console.log('world');
+// }
+
+// function sum(p, q) {
+//     p + q;
+// }
+// const result = sum(2, 3);
+// console.log(result);
+
+// if ("2" === 2) {
+//     console.log("Inside if");
+// } else {
+//     console.log("Inside else");
+// }
+
+// function work(x, y = 4) {
+//     return x + y;
+// }
+// console.log(work(32);
